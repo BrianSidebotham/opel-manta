@@ -77,6 +77,8 @@ Some links to documentation regarding the Release bearing:
 
 ![Bearing Install Drawing](images/tilton-4000-bearing-install-drawing.png)
 
+[PDF](docs/tilton-4000-series-drawing.pdf)
+
 ![Bearing Catalog Page](images/tilton-4000-bearing-catalog-page.png)
 
 The plates from Tilton offer different options. The original I got were AA, but now the options are VV or VW. The image below shows the plate options.
